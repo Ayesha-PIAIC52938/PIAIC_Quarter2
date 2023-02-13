@@ -1,0 +1,15 @@
+Creating ndarray and array attributes
+Array indexing and slicing
+Array shape manipulatiion
+Difference between copy and view of an array
+Numpy Numerical types
+stacking (part-1) : stack() function
+stacking (part-2) : stack() Vs Concatenation() function
+stacking (part-3) : hstack() function & column_stack()
+stacking (part-4) : vstack() function & row_stack()
+stacking (part-5) : dstack() function
+Splitting (part-1): split() function & array_split()
+Splitting (part-2): hsplit() function
+Splitting (part-3): vsplit() function
+Splitting (part-4): dsplit() function
+Additional Numpy topics
